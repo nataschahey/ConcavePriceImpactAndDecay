@@ -10,7 +10,7 @@ We study statistical arbitrage problems considering the nonlinear and transient 
 - **`meta_order_simdata-1.csv`**: The dataset containing simulated meta-orders.
 
 ## Dataset Description
-The dataset consists of synthetic **meta-orders** and their corresponding impact parameters. The characteristics of these meta-orders are chosen such that they correspond the fitting results of CFM's real meta-order dataset from the paper. The key columns include:
+The dataset consists of **synthetic meta-orders** and their corresponding impact parameters. The characteristics of these meta-orders are chosen such that they correspond the fitting results of CFM's real meta-order dataset from the paper. The key columns include:
 
 | Column          | Description |
 |----------------|------------|
