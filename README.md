@@ -1,4 +1,4 @@
-# Price Impact Model Fitting
+# Fitting Procedure of a Concave Price Impact Model with multi timescale decay
 
 This repository contains a Jupyter Notebook that fits a **concave exponential impact decay model** with three time scales to a dataset of meta-orders. The goal is to study **nonlinear and transient price impact** in statistical arbitrage trading, accounting for empirical observations.
 
